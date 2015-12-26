@@ -1,0 +1,21 @@
+{
+  "name": "html-props",
+  "version": "0.0.0",
+  "description": "A bunch of descriptors for HTML element properties",
+  "main": "index.js",
+  "scripts": {
+    "test": "browserify test.js | tape-run"
+  },
+  "keywords": [
+    "html",
+    "properties",
+    "descriptors"
+  ],
+  "author": "Gabe Scholz",
+  "license": "MIT",
+  "devDependencies": {
+    "browserify": "12.0.1",
+    "tape": "4.4.0",
+    "tape-run": "2.1.0"
+  }
+}
