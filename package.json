@@ -3,6 +3,10 @@
   "version": "0.0.1",
   "description": "A bunch of descriptors for HTML element properties",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/garbles/html-props"
+  },
   "scripts": {
     "test": "browserify test.js | tape-run"
   },
