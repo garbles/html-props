@@ -1,6 +1,6 @@
 {
   "name": "html-props",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A bunch of descriptors for HTML element properties",
   "main": "index.js",
   "repository": {
