@@ -1,8 +1,8 @@
-::tada: :tada: :tada: :tada: :tada: :tada: :tada: tada:
+:tada: :tada: :tada: :tada: :tada: :tada: :tada: :tada:
 
 ## A bunch of descriptors for HTML element properties
 
-::tada: :tada: :tada: :tada: :tada: :tada: :tada: tada:
+:tada: :tada: :tada: :tada: :tada: :tada: :tada: :tada:
 
 Originally extracted from [yolk.js](https://github.com/garbles/yolk).
 
